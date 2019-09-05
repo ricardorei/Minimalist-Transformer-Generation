@@ -1,0 +1,13 @@
+# Train
+seed: 7
+batch_size: 32
+gradient_clipping: 1.0
+device: cpu
+num_epochs: 2
+
+# Model
+depth: 4
+num_heads: 4
+embedding_size: 128
+
+max_length: 30
