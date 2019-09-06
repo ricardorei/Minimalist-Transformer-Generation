@@ -9,7 +9,7 @@ For learning abouth transformers I recommend the following blog posts:
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar
 
 To see a Minimalist implementation of a transformer for sentiment analysis check out my other repo: 
-- [Minimalist-Transformer-Generation](https://github.com/ricardorei/Minimalist-Transformer-Generation)
+- [Minimalist-Transformer-Classifier](https://github.com/ricardorei/Minimalist-Transformer-Classifier)
 
 ### Requirements:
 
