@@ -4,6 +4,13 @@ This repo is a Minimalist transformer for sequence to sequence modelling.
 
 The task explored in this repo is the task of inverting sequences with a transformer model.
 
+For learning abouth transformers I recommend the following blog posts:
+- [Transformers from scratch](http://www.peterbloem.nl/blog/transformers) by Peter Bloem 
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar
+
+To see a Minimalist implementation of a transformer for sentiment analysis modelling check out my other repo: 
+- [Minimalist-Transformer-Generation](https://github.com/ricardorei/Minimalist-Transformer-Generation)
+
 ### Requirements:
 
 This project uses Python 3.6.
